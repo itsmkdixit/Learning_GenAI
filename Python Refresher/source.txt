@@ -1,0 +1,4 @@
+Hello! This is testing the write mode in a file!
+This is another line that we are adding to the file.This is what append mode does. It keeps the original content of the file and add a new text in the next line!This PC belongs to Mayank! 
+If you want to access it, please take permission. 
+I am glad you here! 

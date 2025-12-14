@@ -1,0 +1,2 @@
+This is checking the w+ mode! 
+I have not created this file and it getting created through the w+ mode only!
